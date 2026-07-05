@@ -3,7 +3,7 @@
 This project provides a python interface to extract XR state using XRoboToolkit-PC-Service sdk.
 
 This repository is modified from the official
-[`XRoboToolkit-PC-Service`](https://github.com/XR-Robotics/XRoboToolkit-PC-Service)
+[`XRoboToolkit-PC-Service-Pybind`](https://github.com/XR-Robotics/XRoboToolkit-PC-Service-Pybind)
 project and adds support for up to 5 motion trackers.
 
 ## Requirements
